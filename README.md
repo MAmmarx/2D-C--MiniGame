@@ -1,4 +1,4 @@
-###🎮 OreBound: 2D Platformer Game in C#
+🎮 OreBound: 2D Platformer Game in C#
 📌 Overview
 OreBound is a Windows Forms-based 2D platformer game created in C#. It features multiple levels, animated characters, shooting mechanics, moving platforms, and a boss battle. The game was developed to demonstrate animation handling, level progression, and collision detection using raw C# logic.
 
