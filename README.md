@@ -50,19 +50,8 @@ Windows OS
 
 Visual Studio or any C# IDE
 
-🔹 Steps
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/OreBound-Platformer-Game.git
-Open the .sln file in Visual Studio
-
-Build and Run the project
-
 🧑‍🎓 Developed For
-Second Year – Operating Systems Course
+Second Year – MultiMedia Course
 Computer Science, MSA University
 By: Mohammed Ammar & Erfan Nada
 
